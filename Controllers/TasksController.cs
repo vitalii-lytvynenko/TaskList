@@ -74,7 +74,7 @@ namespace TaskList.Controllers
             _context.Tasks.Remove(result);
             _context.SaveChanges();
 
-            return NoContent();
+            return Ok(result.Id);
         }
     }
 }
