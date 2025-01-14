@@ -11,7 +11,7 @@ This is a RESTful API built with ASP.NET Core 6.0 to support the [Todo applicati
 
 ## Endpoints
 ### Base URL
-`https://localhost:7026/api/Tasks`
+`https://localhost:7026/api`
 
 ### Endpoints
 - **GET** `/Tasks`
