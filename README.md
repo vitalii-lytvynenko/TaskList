@@ -1,7 +1,7 @@
 # ASP.NET Core Web API for Todo Application
 
 ## Description
-This is a RESTful API built with ASP.NET Core 6.0 to support the Todo application. The API provides endpoints to manage todo lists, including creating, reading, updating, and deleting todo items. It serves as the backend for a React-based frontend application.
+This is a RESTful API built with ASP.NET Core 6.0 to support the [Todo application](https://github.com/vitalii-lytvynenko/task-list-fe). The API provides endpoints to manage todo lists, including creating, reading, updating, and deleting todo items. It serves as the backend for a React-based frontend application.
 
 ## Features
 - Retrieve all todos for a specific user.
